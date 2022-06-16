@@ -9,7 +9,7 @@ body{
 }
 
 header {
-    background: url(./img/bg-hero-desktop.svg);
+    background: url(./bg-hero-desktop.svg);
     background-color: rgb(241, 249, 252);
     height: 80vh;
     transition: 0.5s;
